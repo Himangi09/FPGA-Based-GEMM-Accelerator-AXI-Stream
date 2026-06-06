@@ -32,7 +32,7 @@ The systolic array consists of interconnected Processing Elements (PEs) that per
 ---
 
 ## Directory Structure
-
+```
 RTL/
 ├── PE.v
 ├── systolic_array_NxN.v
@@ -49,7 +49,7 @@ docs/
 ├── synthesis_utilization.png
 
 README.md
-
+```
 ---
 
 ## Processing Element (PE)
